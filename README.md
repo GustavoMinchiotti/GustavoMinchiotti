@@ -8,6 +8,7 @@
 - Bootstrap
 - Sass
 - JavaScript
+- NodeJS
 - Spring
 - ReactJS
 
@@ -17,5 +18,6 @@
 ![bootstrap-logo-shadow_50x50](https://user-images.githubusercontent.com/102749844/189774543-3df56ea8-56d1-40cc-a4c7-ee68ff1fd365.png)
 ![Sass_50x50](https://user-images.githubusercontent.com/102749844/193303104-bd68f9c6-eae9-4005-a4e3-44efd4064e17.png)
 ![JavaScript](https://user-images.githubusercontent.com/102749844/173581498-7c666d1e-7d7d-4056-93d1-c8a8edde3e2e.png)
+![NodeJS_1_50x50](https://user-images.githubusercontent.com/102749844/194075295-610fc6ef-cf82-4aa4-aa41-981aadd2d7c2.png)
 ![Spring50-50](https://user-images.githubusercontent.com/102749844/173581074-ad54cf4a-b169-4961-abbc-3cd2d5531843.png)
 ![ReactJS](https://user-images.githubusercontent.com/102749844/173581089-4feda16d-e92c-4667-8e9e-10bbc1764106.png)
