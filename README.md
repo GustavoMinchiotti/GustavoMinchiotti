@@ -66,7 +66,8 @@ Corporate landing page for a refrigerated transportation company.
 **Mi Ciudad Colón** — Group mobile app built with **React Native, Expo, TypeScript, and Expo Router**. I contributed technical auditing, requirements review, Android device testing, and issue documentation.
 
 **El Último Mensajero** — Collaborative 2D browser game, published on itch.io in October 2026.
-
+ — [Play on itch.io](https://gustavommb.itch.io/el-ultimo-mensajero)
+ 
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/gustavo-minchiotti](https://www.linkedin.com/in/gustavo-minchiotti/)
